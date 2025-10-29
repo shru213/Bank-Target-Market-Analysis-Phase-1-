@@ -25,6 +25,20 @@ The analysis involved merging these datasets to build a complete customer profil
 * They currently have low credit history, low credit limits, and low credit card usage, indicating an "untapped market".
 * Their primary spending categories are Electronics, Fashion & Apparel, and Beauty & Personal Care, which align well with credit card reward programs.
 
+## Visual Highlights
+
+Here are some key visualizations that support the analysis and target market identification:
+
+**Transaction Count by Age Group and Product Category**
+*(This chart illustrates the spending priorities of different age groups, highlighting key categories for young adults.)*
+
+![Transaction Count by Age Group and Product Category](images/transactions_by_age_product.png)
+
+**Credit Limit Distribution for Young Adults (Age 18-25)**
+*(This visualization shows the current credit limits for the identified target market, emphasizing their lower credit exposure and potential for growth.)*
+
+![Credit Limit Distribution for Young Adults (Age 18-25)](images/credit_limit_18_25.png)
+
 ## Technologies Used
 
 * **Python**
